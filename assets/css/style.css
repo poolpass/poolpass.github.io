@@ -127,7 +127,8 @@ ul.navbar-nav {
 
 .navbar-brand {
 	width: 77px;
-	background: url(../img/logo.png) left center no-repeat;
+	background: url(../img/pp-logo-new1.jpg) left center no-repeat;
+    background-size: 80px 60px;
 	text-indent: -99999px;
 }
 
